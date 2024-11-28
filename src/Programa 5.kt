@@ -3,7 +3,6 @@ fun main() {
         arrayOf(arrayOf("X", "O", "X"), arrayOf("O", "X", "O"), arrayOf("O", "O", "X")),
         arrayOf(arrayOf("", "O", "X"), arrayOf("", "X", "O"), arrayOf("", "O", "X")),
         arrayOf(arrayOf("O", "O", "O"), arrayOf("O", "X", "X"), arrayOf("O", "X", "X")),
-        arrayOf(arrayOf("X", "O", "O"), arrayOf("O", "X", "X"), arrayOf("X", "X", "O")),
         arrayOf(arrayOf("X", "O", "X"), arrayOf("X", "X", "O"), arrayOf("X", "X", "X"))
     )
 
